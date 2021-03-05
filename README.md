@@ -2,4 +2,4 @@
 
 My first repository 
 
-I love :basketball: :books:, and :dancer:.
+I love :basketball: :books:, and :music:.
